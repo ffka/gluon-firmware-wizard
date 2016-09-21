@@ -17,8 +17,8 @@ var firmwarewizard = function(){
   var app = {};
 
   var config = {
-    imageBasePath: './images/',
-    gluonPrefix: 'gluon-ffda-',
+    imageBasePath: './',
+    gluonPrefix: 'gluon-ffka-',
     typeNames: {
       "factory": "Erstinstallation",
       "sysupgrade": "Upgrade"
